@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NOORMOHAMMED789/Laundry-Cart-BackEnd.git"
+    "url": "git+https://github.com/JITNDER121994/Laundry-Cart-backend.git"
   },
   "keywords": [
     "laundry",
@@ -27,10 +27,12 @@
     "stack",
     "cart"
   ],
-  "author": "Md Zeeshan",
+  "author": "Jitender Kumar",
+  "author1": "Abhishek Kumar",
+   "author2": "Harshita",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NOORMOHAMMED789/Laundry-Cart-BackEnd/issues"
+    "url": "https://https://github.com/JITNDER121994/Laundry-Cart-backend/issues"
   },
-  "homepage": "https://github.com/NOORMOHAMMED789/Laundry-Cart-BackEnd#readme"
+  "homepage": "https://github.com/JITNDER121994/Laundry-Cart-backend#readme"
 }
