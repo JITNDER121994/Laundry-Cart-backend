@@ -4,7 +4,7 @@ const User = require("../models/user.js");
 const bcrypt = require('bcrypt');
 const saltRounds = 10;
 var jwt = require('jsonwebtoken');
-const PRIVATE_KEY = process.env.PRIVATE_KEY || 'abhi@#89';
+const PRIVATE_KEY = process.env.PRIVATE_KEY;
 
 router.use(express.json());
 
